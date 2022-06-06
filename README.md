@@ -1,2 +1,2 @@
-# contador_js
+# Contador JavaScript
 Contador criado no Bootcamp Santader DIO
